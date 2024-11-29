@@ -24,9 +24,11 @@
 ## 实验结果
 - **准确率（Accuracy）**：0.9858
 - **F1分数（F1 Score）**：0.9858
-- **训练结果**：![image](https://github.com/user-attachments/assets/174291ea-89b7-4547-bbb0-481cae0910b2)
+- **训练结果**：
+- ![image](https://github.com/user-attachments/assets/174291ea-89b7-4547-bbb0-481cae0910b2)
 
-- **混淆矩阵（Confusion Matrix）**：![image](https://github.com/user-attachments/assets/50d4e466-e068-4989-ad9a-e79f8eccc1f7)
+- **混淆矩阵（Confusion Matrix）**：
+- ![image](https://github.com/user-attachments/assets/50d4e466-e068-4989-ad9a-e79f8eccc1f7)
 
 ## 代码文件
 - **模型定义**：`CNN` - 包含CNN模型的定义。
